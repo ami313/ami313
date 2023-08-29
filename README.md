@@ -1,4 +1,4 @@
--👋 Hi, I'm @ami313!
+-👋 Hi, Bilal Ahmad Khan!
 
 - 👀 I'm interested in networking, Python, SSH server commands, and web development. I find the field of computer science fascinating, and these particular areas have captured my attention and curiosity.
 - 🌱 Currently, I'm actively learning and expanding my knowledge in networking concepts, Python programming, SSH server commands, and web development technologies. I enjoy exploring the intricacies of networking protocols, honing my Python coding skills, mastering SSH server commands for secure remote access, and diving into the world of web development frameworks and tools.
